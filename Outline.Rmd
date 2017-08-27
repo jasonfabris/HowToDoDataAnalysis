@@ -1,0 +1,46 @@
+---
+title: "How To Analyze"
+author: "Jason Fabris"
+date: "August 27, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#How To Do Data Analysis
+
+
+##Define a Question
+###Goals
+It has been said a million times that the output of Data Science is "business decisions". While that's not always true, it's a good rule of thumb, and hints at something important. If your hard work is going to be useful to anyone, those people are need to going to be able to use it to do something. So it's never a bad idea to ask yourself, "self, what would I do after knowing this stuff?"
+
+There is certainly a place for "hey, that's neat" bits of info, and people like to hear it, when they have time. And occasionally you might think something is merely an interesting side-note when your audience realises it has bigger and more useful implications. But not too often. (Especially if you follow the advice below about understanding...) But generally, this kind of fun-fact stuff should be a minority of what you are producing.
+
+Of course, if you're doing this for your own edification, do whatever you want. If no one's paying you, you don't need to prove what you are doing is of any use to anyone except yourself.
+
+
+##First, Understand
+Understand the process that created your data. Maybe you're trying to figure out the process. Have a reasonable hypothesis. Understand where the data came from. How was it collected? When was it collected? How is it measured? Are there measurement errors? Know as much as you can. Data Science people often naively believe they can gain insight from a bunch of database tables they have never seen before by exploring it in isolation. You know what? It's true; they can. But you know what else? Usually they make a lot of bad assumptions, miss a pile of subtleties, reach some false conclusions, 
+
+##Types of Questions
+
+Relationships between things
+Trends over time
+Baseline vs effect vs noise
+
+##Methods
+No magic algroithms. Thinking is the hardest part. 
+
+##Math
+
+##Visualize! (And a rant abuot aesthetics)
+Anscome / datasaurus
+
+
+
+##Story / Present
+
+##Books
+Stephen Few
